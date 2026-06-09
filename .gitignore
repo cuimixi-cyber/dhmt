@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+env.bak/
+venv.bak/
+
+# Outputs
+output_*.jpg
+*.jpg
+!data/images/*.jpg
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
